@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2025</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5371" lry="7115" xml:id="facs_68">
+         <graphic url="0068_068_32v.jpeg" width="5371px" height="7115px"/>
+         <zone points="136,1014 5246,1014 5246,6901 136,6901" rendition="TextRegion" xml:id="facs_68_r" subtype="paragraph">
+            <zone points="202,968 4762,968 4762,1367 202,1367" rendition="Line" xml:id="facs_68_l"/>
+            <zone points="221,1293 5007,1293 5007,1661 221,1661" rendition="Line" xml:id="facs_68_l_273"/>
+            <zone points="184,1575 4928,1575 4928,1973 184,1973" rendition="Line" xml:id="facs_68_l_399"/>
+            <zone points="190,1894 4707,1894 4707,2268 190,2268" rendition="Line" xml:id="facs_68_l_425"/>
+            <zone points="172,2170 5026,2170 5026,2550 172,2550" rendition="Line" xml:id="facs_68_l_597"/>
+            <zone points="190,2482 5105,2482 5105,2862 190,2862" rendition="Line" xml:id="facs_68_l_128"/>
+            <zone points="190,2776 5087,2776 5087,3156 190,3156" rendition="Line" xml:id="facs_68_l_7"/>
+            <zone points="215,3052 4970,3052 4970,3432 215,3432" rendition="Line" xml:id="facs_68_l_14"/>
+            <zone points="202,3389 4995,3389 4995,3751 202,3751" rendition="Line" xml:id="facs_68_l_21"/>
+            <zone points="215,3640 4958,3640 4958,4057 215,4057" rendition="Line" xml:id="facs_68_l_28"/>
+            <zone points="215,3941 4928,3941 4928,4333 215,4333" rendition="Line" xml:id="facs_68_l_35"/>
+            <zone points="215,4309 1667,4309 1667,4633 215,4633" rendition="Line" xml:id="facs_68_l_42"/>
+            <zone points="1152,4523 5142,4523 5142,4909 1152,4909" rendition="Line" xml:id="facs_68_l_49"/>
+            <zone points="196,4842 4682,4842 4682,5203 196,5203" rendition="Line" xml:id="facs_68_l_56"/>
+            <zone points="227,5142 5154,5142 5154,5534 227,5534" rendition="Line" xml:id="facs_68_l_63"/>
+            <zone points="239,5448 5062,5448 5062,5835 239,5835" rendition="Line" xml:id="facs_68_l_70"/>
+            <zone points="270,5737 5075,5737 5075,6153 270,6153" rendition="Line" xml:id="facs_68_l_77"/>
+            <zone points="270,6067 4921,6067 4921,6466 270,6466" rendition="Line" xml:id="facs_68_l_84"/>
+            <zone points="846,6337 4799,6337 4799,6791 846,6791" rendition="Line" xml:id="facs_68_l_91"/>
+            <zone points="239,6607 1526,6607 1526,6919 239,6919" rendition="Line" xml:id="facs_68_l_98"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_68" n="68" xml:id="img_0068"/>
+            <p facs="#facs_68_r">
+               <l facs="#facs_68_l" n="N001">principally due to large cheques which have been made out</l>
+               <l facs="#facs_68_l_273" n="N002">during the last year to Mr Cornelius. I confess that I should be</l>
+               <l facs="#facs_68_l_399" n="N003">interested to know who this Mr Cornelius may be with whom</l>
+               <l facs="#facs_68_l_425" n="N004">a retired builder has such very large transactions. Is it</l>
+               <l facs="#facs_68_l_597" n="N005">possible that he has had a hand in the affair. Cornelius might</l>
+               <l facs="#facs_68_l_128" n="N006">be a broker but we have found no scrip to correspond with these</l>
+               <l facs="#facs_68_l_7" n="N007">large payments. Failing any other indication my researches</l>
+               <l facs="#facs_68_l_14" n="N008">must now take the direction of an inquiry at the bank for</l>
+               <l facs="#facs_68_l_21" n="N009">the gentleman who has cashed these elenes. But I fear, my</l>
+               <l facs="#facs_68_l_28" n="N010">dear fellow, that our case will and infloriously by Lestrade</l>
+               <l facs="#facs_68_l_35" n="N011">hanging our client, which will certainly be a triumph for</l>
+               <l facs="#facs_68_l_42" n="N012">Scotland Yard.</l>
+               <l facs="#facs_68_l_49" n="N013">I do not know how far Sherlock Holmes took any</l>
+               <l facs="#facs_68_l_56" n="N014">sleep that night but when I came down to breakfast I</l>
+               <l facs="#facs_68_l_63" n="N015">found him pale and harassed, his bright eyes the brighter for</l>
+               <l facs="#facs_68_l_70" n="N016">the dark shadows round them. The carpet round his chair</l>
+               <l facs="#facs_68_l_77" n="N017">was littered with carette ends and with the early editions</l>
+               <l facs="#facs_68_l_84" n="N018">of the morning papers. An open telegram lay upon the table.</l>
+               <l facs="#facs_68_l_91" n="N019">"What do you think of this Watson?" he asked,</l>
+               <l facs="#facs_68_l_98" n="N020">Possing it across.</l></p></div>
+      </body>
+   </text>
+</TEI>
