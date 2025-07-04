@@ -1,1 +1,10 @@
+{
+   "title": "My Title",
+   "creators": [
+     {"name": "My Name",
+     "orcid": "0000-0002-7862-2403",
+     "affiliation": "My Institution"
+     }
+   ]
+ }
 
